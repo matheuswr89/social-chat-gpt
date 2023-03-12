@@ -1,7 +1,5 @@
 # Implementação básica para usar o Chat-GPT no Discord, Telegram e WhatsApp
 
-[![Python][python-shield]][python-url]
-
 <div align="center">
   <img src="./assets/init.png" width="350px">
 </div>
@@ -26,6 +24,3 @@ Depois que terminado os passos acima, adicione as KEY's no arquivo `env.sample` 
 
 1. Instale as dependencias com o comando `pip3 install -r requirements.txt`
 2. Os arquivos executáveis são `bot_discord.py`, `whatsapp.py` e `telegram.py`, eles são executados individualmente com o comando: `python3 nome_arquivo`
-
-[python-shield]: https://img.shields.io/github/pipenv/locked/python-version/matheuswr89/social-chat-gpt?style=for-the-badge
-[python-url]: https://www.python.org/
