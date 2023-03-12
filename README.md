@@ -1,8 +1,9 @@
-# Implementação básica para usar o Chat-GPT no Discord, Telegram e WhatsApp
+#Implementação básica para usar o Chat-GPT no Discord, Telegram e WhatsApp
 
 <div align="center">
   <img src="./assets/init.png" width="350px">
 </div>
+
 # Configuração
 
 Primeiramente você terá que ter as KEY's da OpenAI, Telegram, Discord e WhatsApp. Abaixo está aonde requisitar elas:
