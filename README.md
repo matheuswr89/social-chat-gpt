@@ -1,4 +1,4 @@
-#Implementação básica para usar o Chat-GPT no Discord, Telegram e WhatsApp
+# Implementação básica para usar o Chat-GPT no Discord, Telegram e WhatsApp
 
 <div align="center">
   <img src="./assets/init.png" width="350px">
